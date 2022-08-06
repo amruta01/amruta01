@@ -1,6 +1,6 @@
-- 👋 Hi, I’m beju rao @amruta01 with a team
+- 👋 Hi, I’m Beju Rao @amruta01 with a team
 - 👀 I’m interested in bulding explainable AI (XAI) software and services
-- 🌱 I’m currently learning machine learning and deep learning and hoe to best adopt these ML/AI methods
+- 🌱 I’m currently learning and deploying machine learning and deep learning and determining how to best adopt these ML/AI methods
 - 💞️ I’m looking to collaborate on new methods of XAI
 - 📫 How to reach me - beju.rao@amrutainc.com and +1 804 822 2079
 
